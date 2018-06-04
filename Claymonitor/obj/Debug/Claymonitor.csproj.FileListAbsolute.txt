@@ -1,0 +1,15 @@
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\bin\Debug\Claymonitor.exe.config
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\bin\Debug\Claymonitor.exe
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\bin\Debug\Claymonitor.pdb
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.csprojResolveAssemblyReference.cache
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.Properties.Resources.resources
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.csproj.GenerateResource.Cache
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.exe
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.pdb
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.frmMain.resources
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\bin\Debug\OpenHardwareMonitorLib.dll
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.TrustInfo.xml
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.exe.manifest
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\bin\Debug\Claymonitor.exe.manifest
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\bin\Debug\Claymonitor.application
+D:\AppServ\www\miner\resource\C#\Claymonitor\Claymonitor\obj\Debug\Claymonitor.application
